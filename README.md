@@ -4,6 +4,8 @@ sprint2 for the development of the Contact form (Uses mailtrap.io (vendor) for m
 sprint3 for the back-end with a reservation system;
 and sprint4 for the front-end with Menu available on site instead of Menu.pdf.
 
+Sample Contact form with Mailtrap and RECAPTCHA.
+
 
 
 
