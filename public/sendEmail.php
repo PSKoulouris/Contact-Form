@@ -17,7 +17,7 @@ $successMessage = ' ';
 
 //Captcha keys
 $siteKey = '6Le5o7AqAAAAAEQsnm90SvPU4KZxBAxEOb-iSwbx';
-$secret = '6Le5o7AqAAAAANEX_GDT6XU8BTVItHYNJod9DMIe';
+$secret = 'KEY CODE HERE';
 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
