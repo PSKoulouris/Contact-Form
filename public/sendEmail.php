@@ -99,7 +99,7 @@ if (!empty($_POST))
             $mail->Host = 'sandbox.smtp.mailtrap.io';
             $mail->SMTPAuth = true;
             $mail->Username = '34068da005e343';
-            $mail->Password = '8a5a31438f1023';
+            $mail->Password = 'Password HERE';
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
            
