@@ -6,6 +6,8 @@ and sprint4 for the front-end with Menu available on site instead of Menu.pdf.
 
 Sample Contact form with Mailtrap and RECAPTCHA.
 
+Figure1: https://github.com/PSKoulouris/Contact-Form/blob/main/contact%20form%20image.png
+
 
 
 
